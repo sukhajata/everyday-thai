@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/phrase_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/secondLanguage"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@color/dark_primary"
+        android:textColor="@color/header_text"
+        android:textSize="16sp"
+        android:paddingRight="30sp"
+        android:paddingLeft="3sp"
+        android:paddingBottom="3sp"
+        android:paddingTop="3sp"/>
+
+    <ImageView
+        android:id="@+id/favourite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+       android:onClick="favourite_click"
+        android:padding="10sp"
+        android:layout_alignParentRight="true" />
+
+        <TextView
+            android:id="@+id/firstLanguage"
+            android:layout_below="@id/secondLanguage"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_alignParentLeft="true"
+            android:background="#FFFFFF"
+            android:textSize="16sp"
+            android:paddingRight="30sp"
+            android:paddingLeft="3sp"
+            android:paddingBottom="3sp"
+            android:paddingTop="3sp"
+             />
+
+
+
+    <TextView
+        android:id="@+id/notes"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@color/light_primary"
+        android:textSize="16sp"
+        android:padding="3sp"
+        android:layout_below="@id/firstLanguage" />
+
+</RelativeLayout>

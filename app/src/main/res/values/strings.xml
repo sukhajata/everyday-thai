@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Everyday Thai</string>
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+    <string name="banner_ad_unit_id">ca-app-pub-8944555977163246/9520339419</string>
+    <string name="contents">Contents</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_show_favourites">Show favourites</string>
+    <string name="action_switch_voice">Switch voice</string>
+    <string name="action_rate_app">Rate this app</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_play">Play</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search the app</string>
+    <string name="search_results_title">Search results</string>
+    <string name="select_voice">Select version. You can change later in the top right options menu.</string>
+    <string name="unlock_title">Unlock all content</string>
+    <string name="unlock_message">Get access to all content for only</string>
+    <string name="select_voice_message">
+        Please select male or female voice. The content is slightly different since some aspects of Thai language depend upon the gender of the speaker. You can change later in the top right options menu.
+    </string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string-array name="voices">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="instructions_contents_title">Contents</string>
+    <string name="instructions_contents_message">To access the contents at any time, swipe from the left edge or tap the top left menu icon. Touch a phrase to hear the audio.</string>
+    <string name="tone_instructions">"This app uses a system of transliteration to represent Thai words with the English alphabet. Tones are marked with the following accents:
+
+e - mid tone
+è - low tone
+ê - falling tone
+é - high tone
+ĕ - rising tone
+
+See the 'Tone Practice' section under 'Basics' for more information."
+</string>
+</resources>

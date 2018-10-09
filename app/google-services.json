@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "247657496633",
+    "firebase_url": "https://everydaythai-e768c.firebaseio.com",
+    "project_id": "everydaythai-e768c",
+    "storage_bucket": "everydaythai-e768c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247657496633:android:d27581a0de44d036",
+        "android_client_info": {
+          "package_name": "com.sukhajata.everyday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247657496633-alckqp1utiaej77qnqptjnvhdtru7s60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sukhajata.everyday",
+            "certificate_hash": "1CA8678730F006677670EE58908406106ECB56FD"
+          }
+        },
+        {
+          "client_id": "247657496633-ffq61f3vjmlmqr755utnsght96urvvfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sukhajata.everyday",
+            "certificate_hash": "94AEB12FEB86474BF6190F353346E30690A580FF"
+          }
+        },
+        {
+          "client_id": "247657496633-9ghofbj8of71ed69vhelppdatil2rlh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoAqWoRcTz-VF87yyZj-3N7NM7ZiWew3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247657496633-9ghofbj8of71ed69vhelppdatil2rlh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
